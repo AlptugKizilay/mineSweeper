@@ -1,4 +1,4 @@
-# mineSweeper
+# Mine Sweeper
 Game rules :
 
 -The game is text based.
